@@ -16,7 +16,7 @@ Contact:
 
 ## Cool stuff I've built
 
-- https://zeukkari.github.io/stackgl-experiment/
+- https://zeukkari.dev/stackgl-experiment/
 - https://zeukkari.github.io/shdr-experiment/sources/
 - https://zeukkari.github.io/aframe-experiment/
 - https://codepen.io/Zeukkari/pen/QWWJRqZ
