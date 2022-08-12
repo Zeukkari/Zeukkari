@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+Contact:
+
+Email: zeukkaridev@gmail.com
+LinkedIn: https://www.linkedin.com/in/zeukkari/
+Twitter: https://twitter.com/zeukkari
+
+## Projects
+
+Home: https://zeukkari.dev/
+Gitea: https://zeukkari.dev/gitea/
+Wiki: https://wiki.zeukkari.dev/
+
+
+## Cool stuff
+
+- https://zeukkari.github.io/stackgl-experiment/
+- https://zeukkari.github.io/shdr-experiment/sources/
+- https://zeukkari.github.io/aframe-experiment/
+- https://codepen.io/Zeukkari/pen/QWWJRqZ
+- https://zeukkari.itch.io/summer-shader-experiment
+- https://sketchfab.com/3d-models/kiasmas-skate-ramp-5942afb773d34a2baadc9f355403e45f
+
 <!--
 **Zeukkari/Zeukkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
