@@ -2,18 +2,19 @@
 
 Contact:
 
-Email: zeukkaridev@gmail.com
-LinkedIn: https://www.linkedin.com/in/zeukkari/
-Twitter: https://twitter.com/zeukkari
+- Email: zeukkaridev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/zeukkari/
+- Twitter: https://twitter.com/zeukkari
 
 ## Projects
 
-Home: https://zeukkari.dev/
-Gitea: https://zeukkari.dev/gitea/
-Wiki: https://wiki.zeukkari.dev/
+- Home: https://zeukkari.dev/
+- Gitea: https://zeukkari.dev/gitea/
+- Wiki: https://wiki.zeukkari.dev/
+- Test blog: https://blog.zeukkari.dev/
 
 
-## Cool stuff
+## Cool stuff I've built
 
 - https://zeukkari.github.io/stackgl-experiment/
 - https://zeukkari.github.io/shdr-experiment/sources/
